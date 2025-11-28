@@ -1,32 +1,32 @@
 //? Class 01 - DOM -> Document Object Model
 
-// let result;
+ let result;
 
-// result = document.all;
-// result = document.all[6];
-// result = document.all.length;
-// result = document.documentElement;
+ result = document.all;
+ result = document.all[6];
+ result = document.all.length;
+ result = document.documentElement;
 
 
-// result = document.head;
-// result = document.body;
+ result = document.head;
+ result = document.body;
 
-// result = document.body.children;
+ result = document.body.children;
 
-// result = document.doctype;
-// result = document.URL;
+ result = document.doctype;
+ result = document.URL;
 
-// result = document.forms;
-// result = document.forms[0];
-// result = document.forms[0].method;
+ result = document.forms;
+ result = document.forms[0];
+ result = document.forms[0].method;
 
-// result = document.links;
-// result = document.links[0];
-// result = document.links[0].id = 'hepsi';
-// result = document.links[0].innerHTML = 'hepsi';
-// result = document.links[0].className;
+ result = document.links;
+ result = document.links[0];
+ result = document.links[0].id = 'hepsi';
+ result = document.links[0].innerHTML = 'hepsi';
+ result = document.links[0].className;
 
-// console.log(result);
+ console.log(result);
 
 //? Class 02 - DOM -> selecting single element
 
